@@ -8,7 +8,7 @@ Cheers is an event management iOS app that offer a good way to centralize the di
 Once the user is connected, he can precise that he bring some objects to the event by adding some elements in the list.
 All the participants of the event can also share photos and videos from the event to the galery.
 This feature is a good way to centralize the memories of the event and then to remember it years after.
-<br>
+<br><br>
 <div align = "left">
   <img src="ReadMeContent/listeObjets.png" width = 30%/>
   <img src="ReadMeContent/galerie.png" width = 30% />
