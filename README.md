@@ -28,6 +28,7 @@ The creator of the events can see his events (with a star indicator) and the eve
 <div align = "left">
 <img src="ReadMeContent/liste.png" width = 30% />
 <img src="ReadMeContent/details2.png" width = 30% />
+  <img src="ReadMeContent/add.png" width = 30% />
 </div>
 
 <h2>Manage your account</h2>
