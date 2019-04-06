@@ -16,7 +16,7 @@ This feature is a good way to centralize the memories of the event and then to r
 
 <h2>Connection and subscription</h2>
 Every user of Cheers must create an account directly on the app or with the Facebook API. The connection and subsription feature use the Firebase authentication system.
-<br>
+<br><br>
 <div align = "left">
 <img src="ReadMeContent/connexion.png" width = 30% />
 <img src="ReadMeContent/inscription.png" width = 30% />
@@ -24,7 +24,7 @@ Every user of Cheers must create an account directly on the app or with the Face
 
 <h2>List of events and informations</h2>
 The creator of the events can see his events (with a star indicator) and the events to which he is invited (with an envelop indicator).
-<br>
+<br><br>
 <div align = "left">
 <img src="ReadMeContent/liste.png" width = 30% />
 <img src="ReadMeContent/details2.png" width = 30% />
