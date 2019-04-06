@@ -3,8 +3,18 @@ Cheers is an event management iOS app that offer a good way to centralize the di
 
 <h2>List of objects and galery</h2>
 <div align = "left">
-  <img src="ReadMeContent/listeObjets.png" width = 25%/>
-  <img src="ReadMeContent/galerie.png" width = 25% />
+  <img src="ReadMeContent/listeObjets.png" width = 30%/>
+  <img src="ReadMeContent/galerie.png" width = 30% />
 </div>
-<br><br><br>
 
+<h2>Connection and subscription</h2>
+<div align = "left">
+<img src="ReadMeContent/connexion.png" width = 30% />
+<img src="ReadMeContent/inscription.png" width = 30% />
+</div>
+
+<h2>List of events and informations</h2>
+<div align = "left">
+<img src="ReadMeContent/liste.png" width = 30% />
+<img src="ReadMeContent/details.png" width = 30% />
+</div>
