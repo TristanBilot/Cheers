@@ -1,5 +1,8 @@
 # Cheers
 Cheers is an event management iOS app that offer a good way to centralize the different informations of an event and share them with the participants.
+<p align="center">
+  <img src="ReadMeContent/map.gif" width = 35%/>
+</p>
 
 <h2>List of objects and galery</h2>
 Once the user is connected, he can precise that he bring some objects to the event by adding some elements in the list.
@@ -20,6 +23,8 @@ Every user of Cheers must create an account directly on the app or with the Face
 </div>
 
 <h2>List of events and informations</h2>
+The creator of the events can see his events (with a star indicator) and the events to which he is invited (with an envelop indicator).
+<br>
 <div align = "left">
 <img src="ReadMeContent/liste.png" width = 30% />
 <img src="ReadMeContent/details2.png" width = 30% />
